@@ -12,5 +12,5 @@ Les icônes pour les stations de vélo sont issues du projet "OpenBike":https://
 
 h1. Installation
 
-Voir "Wiki":https://github.com/ybonnel/TransportsRennes/wiki.
+Voir "Wiki":https://github.com/LoovtO/TransportsRennes/wiki.
 
